@@ -1,0 +1,31 @@
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+button
+{
+    background-color: rgb(0, 136, 255);
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+    padding: 10px 100px;
+    margin-top: 10px;
+}
+#degree
+{
+    margin-top: 5px;
+}
+#temp-type
+{
+    padding: 1px 20px;
+    margin-top: 5px;
+}
+#result-container
+{
+    margin-top: 10px;
+    font-size: larger;
+}
